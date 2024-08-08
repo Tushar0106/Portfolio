@@ -216,6 +216,7 @@ a:hover {
   padding: 3rem 1.25rem;
   position: relative;
   background-color: #fff;
+  /* border-radius: .7%; */
   margin-bottom: 3rem;
   z-index: 2;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
@@ -862,6 +863,11 @@ a:hover {
   height: .7rem;
   background-color: #0078ff;
 }
+
+.custom-lead {
+  line-height: 2;
+}
+
 
 /*--------------------------------------------------------------
 # Portfolio
